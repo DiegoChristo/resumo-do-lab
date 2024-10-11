@@ -11,3 +11,28 @@ previsibilidade - confiança para avançar com desempenho e custo
 segurança - o cliente também é responsável
 governança - auditoria
 gerenciabilidade - escalar a implantação de recursos de acordo com a necessidade
+
+benefícios da nuvem
+
+disponibilidade - sempre funciona se o sla não for cumprido uma porcentagem do valor é devolvido 
+escalabilidade - pagando apenas pelos serviços necessários
+elasticidade - recursos expandindo automaticamente ou manualmente
+confiabilidade - configurar replicações e não fica sem sistema
+previsibilidade - confiança para avançar com desempenho e custo
+segurança - o cliente também é responsável
+governança - auditoria
+gerenciabilidade - escalar a implantação de recursos de acordo com a necessidade
+     configurando uma maquina
+quanto mais 9 menor o tempo de indisponibilidade, dicas de segurança são dados em mais de uma localidade
+
+      tipos de serviços em nuvem
+iaaS infra, paas plataforma, saas sistemas  
+
+iaas - servidores - segurança de rede - planta física- serviço flexível - configura e gerencia o hardware para o su app
+
+Paas - tudo IaaS + sistemas operacionais - ferramentas para dev - focado em desenvolver app - o gerenciamento é realizado pelo provedor de nuvem
+
+Saas - iaas, paas + aplicativos - preço pago pelo uso - sw por assinatura
+
+modelo de responsabilidade compartilhada
+no local físico tudo é de responsabilidade da empresa
