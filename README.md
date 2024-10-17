@@ -91,4 +91,37 @@ arquitetura e serviços
 -- serviços de app azure
 --- trabalha com .NET, .NET CORE, NDES.JS, JAVA, PYTHON OU PHP
 
+       armazenamento
+
+- Redundancia de armazenamento
+-- LRS - armazenamento local - região primaria
+-- ZRS - armazenamento de zona - 3 zonas de disponibilidade na região primaria
+-- GRS - armazenamento geográfico - único no primário e região secundaria
+-- GZRS - armazenamento de zona geográfica - 3 zonas de disponibilidade na região primaria e um na região secundaria.
+- blobs
+- data lake storage
+- filas
+- tabelas
+    camadas de acesso
+- frequente
+- esporádico - 30 dias
+- frio - 90 dias
+- arquivo morto - 180 dias
+    migração para azure
+- plataforma de migração
+- intervalo de ferramentas integradas e autônomas
+- avaliação e migração
+    azure data box
+- ate 80 tb de dados
+     azcopy
+- utilitário de linha de comando
+- copiar blobs ou arquivos de ou para sua conta de armazenamento
+- sincronização em uma direção
+    gerenciador de armazenamento azure
+- interface gráfica
+- compatível com o Windows, MacOS e Linux
+
+
+  
+
 
