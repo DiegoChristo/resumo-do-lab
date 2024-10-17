@@ -66,3 +66,29 @@ Marcações
 nome - marcações ou tag - centro de custo
 valor - o valor pelos recursos.
 
+arquitetura e serviços 
+- tipos de computação
+- hospedagem de aplicativos
+- redes virtuais
+-- computação do azure é um serviço sob demanda que fornece recursos de computação, como discos, processadores, memoria, rede e sistemas
+--- maquinas virtuais (VMs)
+---- emulação de sw de computadores físicos
+---- inclui processadores virtuais, memoria, armazenamento e redes
+---- oferta de infra que oferece personalização e controle total
+- conjunto de dimensionamento de VMs
+-- os conjuntos de dimensionamentos oferecem uma oportunidade de balanceamento de carga para dimensionar os recursos automaticamente 
+- Conjunto de disponibilidade de maquinas virtuais
+-- são distribuídas em rack de falhas
+--- cada linhas de maquinas são distribuídas de linhas de atualização
+- área de trabalho virtual azure
+-- podemos configurar maquinas exclusivas ou compartilhada
+- contêineres do azure - PaaS - AKS
+-- uma maquina física com varias maquinas virtuais
+-- Docker
+--kubernetes - orquestração para contêineres
+- azure functions e serviços de app azure
+-- código baseado em eventos é executado quando chamado sem precisar de infra do servidor durante período inativo
+-- serviços de app azure
+--- trabalha com .NET, .NET CORE, NDES.JS, JAVA, PYTHON OU PHP
+
+
