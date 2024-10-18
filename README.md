@@ -122,6 +122,18 @@ arquitetura e serviços
 - compatível com o Windows, MacOS e Linux
 
 
-  
+   Identidade, acesso e segurança
+- Serviços de diretório
+- Métodos de autenticação
+- Modelos de segurança
+
+entra id e domain services
+- serviço de gerenciamento de identidades e acessos baseados em nuvem do azure
+
+- MS entra ID
+-- copia os usuários para a nuvem ( usuários criados na nuvem não são importados para o on-premices )
+--- permanentemente deletado o usuário após 30 dias
+
+
 
 
