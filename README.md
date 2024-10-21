@@ -129,7 +129,40 @@ arquitetura e serviços
 
 entra id e domain services
 - serviço de gerenciamento de identidades e acessos baseados em nuvem do azure
+Defender for cloud
+- Traz uma analise de postura de segurança, da recomendações de segurança e é hibrido, ele traz dados de diferentes modelos de nuvens ( aws, gcp ), só sincronizar as contas
 
+   Logica e pensamento computacional
+- PBL - logica
+-- aprendizagem ativa, transformação digital, comunidade protagonista
+
+-----Java e C# tem a linguagem bem parecida
+-----javascript linguagem mais limpa
+-----python parecido com javascript porem sem chaves
+-----kotlin traz parâmetros de fora para a programação
+
+
+   gerenciamento de custos azure
+-calculo de custos e preços
+-gerenciamento de custos e marca
+-- tipo de recurso esta associado ao custo
+-- consumo - pago conforme o uso, consumo é um dos maiores geradores de custos
+-- manutenção - monitorar o uso dos recursos após prontos ajuda a reduzir custos
+-- área geográfica - mesmo recursos x valores diferentes
+-- trafego de rede - alguns dados de entrada são gratuitos já os dados de saída tem custos e é afetado por zonas de cobrança
+-- assinatura - tipo de assinatura tem seus custos
+
+--- quando adicionamos um app não nativo do azure e ele apresenta falha, procuramos o suporte do app ---
+
+   TCO - calculadora de custo total, ela estima a economia de custos ao migrar para a nuvem ela gera um relatório que compara os custos de infra local com o de uso de produtos e serviços azure na nuvem
+
+    marcas (tags )
+- organizar e filtrar os recursos
+- não é obrigatório
+- reunir informações de cobranças
+
+   otimizando custos
+https://azure.microsoft.com/pt-br/pricing/tco/calculator/
 - MS entra ID
 -- copia os usuários para a nuvem ( usuários criados na nuvem não são importados para o on-premices )
 --- permanentemente deletado o usuário após 30 dias
