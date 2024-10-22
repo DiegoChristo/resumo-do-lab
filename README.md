@@ -167,6 +167,20 @@ https://azure.microsoft.com/pt-br/pricing/tco/calculator/
 -- copia os usuários para a nuvem ( usuários criados na nuvem não são importados para o on-premices )
 --- permanentemente deletado o usuário após 30 dias
 
+    governança e conformidades
+
+- blueprints, politicas e bloqueios de recursos
+- portal de confiança de serviço
+
+-- azure policy - ajuda a impor padrões organizacionais e a avaliar a conformidade em escala, governança e consistência de recursos com conformidade regulatória, segurança, custo e gerenciamento
+-avalia e identifica recursos, fornece definições de politicas e iniciativas integradas, policy faz a padronização de recursos.
+
+-- bloqueio de recursos - proteja e mantenha os recursos de exclusões, gerencie bloqueios na assinatura
+
+-- portal de confiança do serviço
+---- servicetrust.microsoft.com
+
+-- MS pureview - é uma família de soluções de governança, risco e conformidade de dados que ajuda a obter uma exibição unificada de dados, dados locais, multinuvem e de software como serviço reunidos.
 
 
 
