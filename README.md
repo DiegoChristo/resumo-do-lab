@@ -196,4 +196,14 @@ https://azure.microsoft.com/pt-br/pricing/tco/calculator/
 -código exportavel
 
 
+    ferramentas de monitoramento do azure
+
+-assistente do azure
+-integridade do serviço do azure
+-azure monitor
+
+-- assistente do azure - nos ajuda a analisar recursos implantados e faz recomendações com base nas praticas de otimizações.
+-- integridade do serviço do azure - é uma coleção de serviços que mantem você informado sobre o status geral do azure
+-- azure monitor - maximiza a disponibilidade e o desempenho de aplicativos e serviços coletando, analisando e tomando decisões com base na telemetria
+
 
