@@ -182,5 +182,18 @@ https://azure.microsoft.com/pt-br/pricing/tco/calculator/
 
 -- MS pureview - é uma família de soluções de governança, risco e conformidade de dados que ajuda a obter uma exibição unificada de dados, dados locais, multinuvem e de software como serviço reunidos.
 
+ Implantação de Recursos
+- Portal, powershell, cli
+- azure arc, azure resouce menager
+
+---azure arc - ferramenta multi cloud
+---azure resouce menager (arm) - fornece camada de gerenciamento que permite criar, atualizar e excluir recursos na assinatura do azure.
+-sintaxe declarativa
+-resultados repetíveis
+-orquestração
+-arquivos modulares
+-validação integrada
+-código exportavel
+
 
 
